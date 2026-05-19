@@ -1,6 +1,7 @@
 import os
 import json
 import subprocess
+from datetime import datetime
 
 def extract_json(text):
     """從可能含有 markdown 標籤的文字中提取 JSON"""
@@ -77,6 +78,32 @@ reviewer_schema = {
     },
     "required": ["status", "review_comments", "bugs"]
 }
+
+def brainstorm_with_user(user_requirement: str) -> str:
+    brainstorm_bp = load_agent_blueprint("agent_blueprints/brainstorming.md")
+    history = [f"使用者需求：{user_requirement}"]
+    max_turns = 20
+
+    for _ in range(max_turns):
+        full_context = "\n".join(history)
+        response = call_agent(brainstorm_bp, full_context)
+
+        spec = _extract_spec(response)
+        if spec is not None:
+            timestamp = datetime.now().strftime("%Y-%m-%d")
+            path = f"docs/superpowers/specs/{timestamp}-project-design.md"
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(spec)
+            print(f"\n📄 Spec 已儲存至: {path}")
+            return spec
+
+        print(f"\n🧠 Brainstorming: {response}")
+        user_answer = input("你的回答：").strip()
+        history.append(f"Assistant: {response}")
+        history.append(f"User: {user_answer}")
+
+    raise RuntimeError("Brainstorming 超過最大輪數限制（20 輪），請重新執行。")
 
 # --- 主工作流流程 ---
 def run_automation_team(user_requirement):
