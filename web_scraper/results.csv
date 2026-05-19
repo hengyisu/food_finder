@@ -1,0 +1,610 @@
+type,tag_or_source,text,url
+page_title,TITLE,"GitHub - msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. · GitHub",https://github.com/msitarzewski/agency-agents
+heading,H1,"Search code, repositories, users, issues, pull requests...",
+heading,H1,Provide feedback,
+heading,H1,Saved searches,
+heading,H1,msitarzewski/agency-agents,
+heading,H1,🎭 The Agency: AI Specialists Ready to Transform Your Workflow,
+heading,H2,Navigation Menu,
+heading,H2,Use saved searches to filter your results more quickly,
+heading,H2,Folders and files,
+heading,H2,Latest commit,
+heading,H2,History,
+heading,H2,Repository files navigation,
+heading,H2,🚀 What Is This?,
+heading,H2,⚡ Quick Start,
+heading,H2,🎨 The Agency Roster,
+heading,H2,🎯 Real-World Use Cases,
+heading,H2,🤝 Contributing,
+heading,H2,📖 Agent Design Philosophy,
+heading,H2,🎁 What Makes This Special?,
+heading,H2,🎨 Agent Personality Highlights,
+heading,H2,📊 Stats,
+heading,H2,🔌 Multi-Tool Integrations,
+heading,H2,🗺️ Roadmap,
+heading,H2,🌐 Community Translations & Localizations,
+heading,H2,🔗 Related Resources,
+heading,H2,📜 License,
+heading,H2,🙏 Acknowledgments,
+heading,H2,💬 Community,
+heading,H2,🚀 Get Started,
+heading,H2,About,
+heading,H2,Releases,
+heading,H2,Packages,
+heading,H2,"Contributors
+68",
+heading,H2,Languages,
+heading,H2,Footer,
+heading,H3,Option 1: Use with Claude Code (Recommended),
+heading,H3,Option 2: Use as Reference,
+heading,H3,"Option 3: Use with Other Tools (GitHub Copilot, Antigravity, Gemini CLI, OpenCode, OpenClaw, Cursor, Aider, Windsurf, Kimi Code)",
+heading,H3,💻 Engineering Division,
+heading,H3,🎨 Design Division,
+heading,H3,💰 Paid Media Division,
+heading,H3,💼 Sales Division,
+heading,H3,📢 Marketing Division,
+heading,H3,📊 Product Division,
+heading,H3,🎬 Project Management Division,
+heading,H3,🧪 Testing Division,
+heading,H3,🛟 Support Division,
+heading,H3,🥽 Spatial Computing Division,
+heading,H3,🎯 Specialized Division,
+heading,H3,💵 Finance Division,
+heading,H3,🎮 Game Development Division,
+heading,H3,📚 Academic Division,
+heading,H3,Scenario 1: Building a Startup MVP,
+heading,H3,Scenario 2: Marketing Campaign Launch,
+heading,H3,Scenario 3: Enterprise Feature Development,
+heading,H3,Scenario 4: Paid Media Account Takeover,
+heading,H3,Scenario 5: Full Agency Product Discovery,
+heading,H3,Add a New Agent,
+heading,H3,Improve Existing Agents,
+heading,H3,Share Your Success Stories,
+heading,H3,Unlike Generic AI Prompts:,
+heading,H3,Unlike Prompt Libraries:,
+heading,H3,Unlike AI Tools:,
+heading,H3,Supported Tools,
+heading,H3,⚡ Quick Install,
+heading,H3,Tool-Specific Instructions,
+heading,H3,Regenerating After Changes,
+heading,H3,Resources,
+heading,H3,License,
+heading,H3,Contributing,
+heading,H3,Security policy,
+heading,H3,Uh oh!,
+heading,H3,Stars,
+heading,H3,Watchers,
+heading,H3,Forks,
+heading,H3,Footer navigation,
+heading,H4,Cross-Engine Agents (Engine-Agnostic),
+heading,H4,Unity,
+heading,H4,Unreal Engine,
+heading,H4,Godot,
+heading,H4,Blender,
+heading,H4,Roblox Studio,
+link,A,Skip to content,https://github.com/msitarzewski/agency-agents#start-of-content
+link,A,,https://github.com/
+link,A,Sign in,https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmsitarzewski%2Fagency-agents
+link,A,,https://github.com/features/copilot
+link,A,,https://github.com/features/spark
+link,A,,https://github.com/features/models
+link,A,,https://github.com/mcp
+link,A,,https://github.com/features/actions
+link,A,,https://github.com/features/codespaces
+link,A,,https://github.com/features/issues
+link,A,,https://github.com/features/code-review
+link,A,,https://github.com/security/advanced-security
+link,A,,https://github.com/security/advanced-security/code-security
+link,A,,https://github.com/security/advanced-security/secret-protection
+link,A,,https://github.com/why-github
+link,A,,https://docs.github.com/
+link,A,,https://github.blog/
+link,A,,https://github.blog/changelog
+link,A,,https://github.com/marketplace
+link,A,,https://github.com/features
+link,A,,https://github.com/enterprise
+link,A,,https://github.com/team
+link,A,,https://github.com/enterprise/startups
+link,A,,https://github.com/solutions/industry/nonprofits
+link,A,,https://github.com/solutions/use-case/app-modernization
+link,A,,https://github.com/solutions/use-case/devsecops
+link,A,,https://github.com/solutions/use-case/devops
+link,A,,https://github.com/solutions/use-case/ci-cd
+link,A,,https://github.com/solutions/use-case
+link,A,,https://github.com/solutions/industry/healthcare
+link,A,,https://github.com/solutions/industry/financial-services
+link,A,,https://github.com/solutions/industry/manufacturing
+link,A,,https://github.com/solutions/industry/government
+link,A,,https://github.com/solutions/industry
+link,A,,https://github.com/solutions
+link,A,,https://github.com/resources/articles?topic=ai
+link,A,,https://github.com/resources/articles?topic=software-development
+link,A,,https://github.com/resources/articles?topic=devops
+link,A,,https://github.com/resources/articles?topic=security
+link,A,,https://github.com/resources/articles
+link,A,,https://github.com/customer-stories
+link,A,,https://github.com/resources/events
+link,A,,https://github.com/resources/whitepapers
+link,A,,https://github.com/solutions/executive-insights
+link,A,,https://skills.github.com/
+link,A,,https://docs.github.com/
+link,A,,https://support.github.com/
+link,A,,https://github.com/orgs/community/discussions
+link,A,,https://github.com/trust-center
+link,A,,https://github.com/partners
+link,A,,https://github.com/resources
+link,A,,https://github.com/sponsors
+link,A,,https://securitylab.github.com/
+link,A,,https://maintainers.github.com/
+link,A,,https://github.com/accelerator
+link,A,,https://stars.github.com/
+link,A,,https://archiveprogram.github.com/
+link,A,,https://github.com/topics
+link,A,,https://github.com/trending
+link,A,,https://github.com/collections
+link,A,,https://github.com/enterprise
+link,A,,https://github.com/security/advanced-security
+link,A,,https://github.com/features/copilot/copilot-business
+link,A,,https://github.com/premium-support
+link,A,Pricing,https://github.com/pricing
+link,A,Search syntax tips,https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+link,A,documentation,https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+link,A,Sign in,https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmsitarzewski%2Fagency-agents
+link,A,Sign up,https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=msitarzewski%2Fagency-agents
+link,A,Reload,https://github.com/msitarzewski/agency-agents
+link,A,Reload,https://github.com/msitarzewski/agency-agents
+link,A,Reload,https://github.com/msitarzewski/agency-agents
+link,A,msitarzewski,https://github.com/msitarzewski
+link,A,agency-agents,https://github.com/msitarzewski/agency-agents
+link,A,Notifications,https://github.com/login?return_to=%2Fmsitarzewski%2Fagency-agents
+link,A,Fork 16.7k,https://github.com/login?return_to=%2Fmsitarzewski%2Fagency-agents
+link,A,Star 100k,https://github.com/login?return_to=%2Fmsitarzewski%2Fagency-agents
+link,A,Code,https://github.com/msitarzewski/agency-agents
+link,A,"Issues
+55",https://github.com/msitarzewski/agency-agents/issues
+link,A,"Pull requests
+87",https://github.com/msitarzewski/agency-agents/pulls
+link,A,Discussions,https://github.com/msitarzewski/agency-agents/discussions
+link,A,Actions,https://github.com/msitarzewski/agency-agents/actions
+link,A,Projects,https://github.com/msitarzewski/agency-agents/projects
+link,A,Security and quality,https://github.com/msitarzewski/agency-agents/security
+link,A,Insights,https://github.com/msitarzewski/agency-agents/pulse
+link,A,Code,https://github.com/msitarzewski/agency-agents
+link,A,Issues,https://github.com/msitarzewski/agency-agents/issues
+link,A,Pull requests,https://github.com/msitarzewski/agency-agents/pulls
+link,A,Discussions,https://github.com/msitarzewski/agency-agents/discussions
+link,A,Actions,https://github.com/msitarzewski/agency-agents/actions
+link,A,Projects,https://github.com/msitarzewski/agency-agents/projects
+link,A,Security and quality,https://github.com/msitarzewski/agency-agents/security
+link,A,Insights,https://github.com/msitarzewski/agency-agents/pulse
+link,A,,https://github.com/msitarzewski/agency-agents
+link,A,8 Branches,https://github.com/msitarzewski/agency-agents/branches
+link,A,0 Tags,https://github.com/msitarzewski/agency-agents/tags
+link,A,,https://github.com/msitarzewski/agency-agents/branches
+link,A,,https://github.com/msitarzewski/agency-agents/tags
+link,A,,https://github.com/Shiven0504
+link,A,Shiven0504,https://github.com/msitarzewski/agency-agents/commits?author=Shiven0504
+link,A,Fix opencode global install docs to use install.sh --path (,https://github.com/msitarzewski/agency-agents/commit/783f6a72bfd7f3135700ac273c619d92821b419a
+link,A,#249,https://github.com/msitarzewski/agency-agents/pull/249
+link,A,),https://github.com/msitarzewski/agency-agents/commit/783f6a72bfd7f3135700ac273c619d92821b419a
+link,A,783f6a7,https://github.com/msitarzewski/agency-agents/commit/783f6a72bfd7f3135700ac273c619d92821b419a
+link,A,291 Commits,https://github.com/msitarzewski/agency-agents/commits/main/
+link,A,,https://github.com/msitarzewski/agency-agents/commits/main/
+link,A,.github,https://github.com/msitarzewski/agency-agents/tree/main/.github
+link,A,.github,https://github.com/msitarzewski/agency-agents/tree/main/.github
+link,A,"fix: add finance/ to scripts, CI, README, and CONTRIBUTING.md (",https://github.com/msitarzewski/agency-agents/commit/e73f4019aeee6e74b52b193547ea07e1a96e78ee
+link,A,#437,https://github.com/msitarzewski/agency-agents/pull/437
+link,A,),https://github.com/msitarzewski/agency-agents/commit/e73f4019aeee6e74b52b193547ea07e1a96e78ee
+link,A,academic,https://github.com/msitarzewski/agency-agents/tree/main/academic
+link,A,academic,https://github.com/msitarzewski/agency-agents/tree/main/academic
+link,A,feat: add Academic Division with 5 storytelling-focused agents,https://github.com/msitarzewski/agency-agents/commit/7f171ae094ab55c5d858f0fdebfdd46bd4e70c82
+link,A,design,https://github.com/msitarzewski/agency-agents/tree/main/design
+link,A,design,https://github.com/msitarzewski/agency-agents/tree/main/design
+link,A,"Add OpenClaw integration, emoji/vibe frontmatter, services field, and…",https://github.com/msitarzewski/agency-agents/commit/6d58ad4c0a3b8cfa9bb77125f18152312dd1e5bb
+link,A,engineering,https://github.com/msitarzewski/agency-agents/tree/main/engineering
+link,A,engineering,https://github.com/msitarzewski/agency-agents/tree/main/engineering
+link,A,fix: align agents with CONTRIBUTING.md template + revert tooling PRs …,https://github.com/msitarzewski/agency-agents/commit/dcf38c8e898ce8b9a028d2d9849c164ddf75d871
+link,A,examples,https://github.com/msitarzewski/agency-agents/tree/main/examples
+link,A,examples,https://github.com/msitarzewski/agency-agents/tree/main/examples
+link,A,Move book co-author into marketing category structure,https://github.com/msitarzewski/agency-agents/commit/1955c9120f26688202612b12b0edd8250209ec50
+link,A,finance,https://github.com/msitarzewski/agency-agents/tree/main/finance
+link,A,finance,https://github.com/msitarzewski/agency-agents/tree/main/finance
+link,A,fix: align 5 finance agents with CONTRIBUTING.md template (,https://github.com/msitarzewski/agency-agents/commit/4eaf2309fbafe3efa7ec25ed0996b51a4ee25c47
+link,A,#436,https://github.com/msitarzewski/agency-agents/pull/436
+link,A,),https://github.com/msitarzewski/agency-agents/commit/4eaf2309fbafe3efa7ec25ed0996b51a4ee25c47
+link,A,game-development,https://github.com/msitarzewski/agency-agents/tree/main/game-development
+link,A,game-development,https://github.com/msitarzewski/agency-agents/tree/main/game-development
+link,A,Add Blender Add-on Engineer agent and update README,https://github.com/msitarzewski/agency-agents/commit/fe7f036b1ac2a86ec4cc586f0153c9825d44b0d2
+link,A,integrations,https://github.com/msitarzewski/agency-agents/tree/main/integrations
+link,A,integrations,https://github.com/msitarzewski/agency-agents/tree/main/integrations
+link,A,Fix opencode global install docs to use install.sh --path (,https://github.com/msitarzewski/agency-agents/commit/783f6a72bfd7f3135700ac273c619d92821b419a
+link,A,#249,https://github.com/msitarzewski/agency-agents/pull/249
+link,A,),https://github.com/msitarzewski/agency-agents/commit/783f6a72bfd7f3135700ac273c619d92821b419a
+link,A,marketing,https://github.com/msitarzewski/agency-agents/tree/main/marketing
+link,A,marketing,https://github.com/msitarzewski/agency-agents/tree/main/marketing
+link,A,fix: align agents with CONTRIBUTING.md template + revert tooling PRs …,https://github.com/msitarzewski/agency-agents/commit/dcf38c8e898ce8b9a028d2d9849c164ddf75d871
+link,A,paid-media,https://github.com/msitarzewski/agency-agents/tree/main/paid-media
+link,A,paid-media,https://github.com/msitarzewski/agency-agents/tree/main/paid-media
+link,A,"Add OpenClaw integration, emoji/vibe frontmatter, services field, and…",https://github.com/msitarzewski/agency-agents/commit/6d58ad4c0a3b8cfa9bb77125f18152312dd1e5bb
+link,A,product,https://github.com/msitarzewski/agency-agents/tree/main/product
+link,A,product,https://github.com/msitarzewski/agency-agents/tree/main/product
+link,A,Add Product Manager agent - Product Division,https://github.com/msitarzewski/agency-agents/commit/cd2faa2a2a152a2e6c5d613feb1cfbf21e45591d
+link,A,project-management,https://github.com/msitarzewski/agency-agents/tree/main/project-management
+link,A,project-management,https://github.com/msitarzewski/agency-agents/tree/main/project-management
+link,A,"Add OpenClaw integration, emoji/vibe frontmatter, services field, and…",https://github.com/msitarzewski/agency-agents/commit/6d58ad4c0a3b8cfa9bb77125f18152312dd1e5bb
+link,A,sales,https://github.com/msitarzewski/agency-agents/tree/main/sales
+link,A,sales,https://github.com/msitarzewski/agency-agents/tree/main/sales
+link,A,"Fix outbound strategist typo, update agent count to 142",https://github.com/msitarzewski/agency-agents/commit/78d9167215049603b44d6b67fa6559f3a9103452
+link,A,scripts,https://github.com/msitarzewski/agency-agents/tree/main/scripts
+link,A,scripts,https://github.com/msitarzewski/agency-agents/tree/main/scripts
+link,A,docs: align agent linting with OpenClaw section split (,https://github.com/msitarzewski/agency-agents/commit/3d574c9aacb99d3f974e641701020f74814aa7aa
+link,A,#230,https://github.com/msitarzewski/agency-agents/pull/230
+link,A,),https://github.com/msitarzewski/agency-agents/commit/3d574c9aacb99d3f974e641701020f74814aa7aa
+link,A,spatial-computing,https://github.com/msitarzewski/agency-agents/tree/main/spatial-computing
+link,A,spatial-computing,https://github.com/msitarzewski/agency-agents/tree/main/spatial-computing
+link,A,"Add OpenClaw integration, emoji/vibe frontmatter, services field, and…",https://github.com/msitarzewski/agency-agents/commit/6d58ad4c0a3b8cfa9bb77125f18152312dd1e5bb
+link,A,specialized,https://github.com/msitarzewski/agency-agents/tree/main/specialized
+link,A,specialized,https://github.com/msitarzewski/agency-agents/tree/main/specialized
+link,A,feat: add loan officer assistant agent (,https://github.com/msitarzewski/agency-agents/commit/4eba68d5ee3f29fb8d531a7e75d2244c7ff5057f
+link,A,#424,https://github.com/msitarzewski/agency-agents/pull/424
+link,A,),https://github.com/msitarzewski/agency-agents/commit/4eba68d5ee3f29fb8d531a7e75d2244c7ff5057f
+link,A,strategy,https://github.com/msitarzewski/agency-agents/tree/main/strategy
+link,A,strategy,https://github.com/msitarzewski/agency-agents/tree/main/strategy
+link,A,fix: rename 'Data Analytics Reporter' to 'Analytics Reporter' in stra…,https://github.com/msitarzewski/agency-agents/commit/81f5a6998a8c340b2c1121b41fe3c0bd81025843
+link,A,support,https://github.com/msitarzewski/agency-agents/tree/main/support
+link,A,support,https://github.com/msitarzewski/agency-agents/tree/main/support
+link,A,"Add OpenClaw integration, emoji/vibe frontmatter, services field, and…",https://github.com/msitarzewski/agency-agents/commit/6d58ad4c0a3b8cfa9bb77125f18152312dd1e5bb
+link,A,testing,https://github.com/msitarzewski/agency-agents/tree/main/testing
+link,A,testing,https://github.com/msitarzewski/agency-agents/tree/main/testing
+link,A,Remove dangling reference to non-existent integration.md,https://github.com/msitarzewski/agency-agents/commit/f3ae361e6da76da605931fbdb980877d5637c2d0
+link,A,.gitattributes,https://github.com/msitarzewski/agency-agents/blob/main/.gitattributes
+link,A,.gitattributes,https://github.com/msitarzewski/agency-agents/blob/main/.gitattributes
+link,A,Add .gitattributes to enforce LF line endings,https://github.com/msitarzewski/agency-agents/commit/f2449908cddaf67ee5e59af572cff1074a0b893b
+link,A,.gitignore,https://github.com/msitarzewski/agency-agents/blob/main/.gitignore
+link,A,.gitignore,https://github.com/msitarzewski/agency-agents/blob/main/.gitignore
+link,A,feat(kimi): add Kimi Code CLI integration support,https://github.com/msitarzewski/agency-agents/commit/422fa1bd68a3325c6159527e05e3de06e34f0bdc
+link,A,CONTRIBUTING.md,https://github.com/msitarzewski/agency-agents/blob/main/CONTRIBUTING.md
+link,A,CONTRIBUTING.md,https://github.com/msitarzewski/agency-agents/blob/main/CONTRIBUTING.md
+link,A,"fix: add finance/ to scripts, CI, README, and CONTRIBUTING.md (",https://github.com/msitarzewski/agency-agents/commit/e73f4019aeee6e74b52b193547ea07e1a96e78ee
+link,A,#437,https://github.com/msitarzewski/agency-agents/pull/437
+link,A,),https://github.com/msitarzewski/agency-agents/commit/e73f4019aeee6e74b52b193547ea07e1a96e78ee
+link,A,CONTRIBUTING_zh-CN.md,https://github.com/msitarzewski/agency-agents/blob/main/CONTRIBUTING_zh-CN.md
+link,A,CONTRIBUTING_zh-CN.md,https://github.com/msitarzewski/agency-agents/blob/main/CONTRIBUTING_zh-CN.md
+link,A,Update CONTRIBUTING_zh-CN.md,https://github.com/msitarzewski/agency-agents/commit/73c15438d67d6e894f364396104a2fa3a7c2f939
+link,A,LICENSE,https://github.com/msitarzewski/agency-agents/blob/main/LICENSE
+link,A,LICENSE,https://github.com/msitarzewski/agency-agents/blob/main/LICENSE
+link,A,Initial commit: The Agency - 51 AI Specialist Agents,https://github.com/msitarzewski/agency-agents/commit/98eea4c13983187cbabde84c1a2cd3e8a966b7d4
+link,A,README.md,https://github.com/msitarzewski/agency-agents/blob/main/README.md
+link,A,README.md,https://github.com/msitarzewski/agency-agents/blob/main/README.md
+link,A,docs: align displayed OpenClaw install path (,https://github.com/msitarzewski/agency-agents/commit/2af37738667ea3387227b198fe89a614e0192743
+link,A,#231,https://github.com/msitarzewski/agency-agents/pull/231
+link,A,),https://github.com/msitarzewski/agency-agents/commit/2af37738667ea3387227b198fe89a614e0192743
+link,A,SECURITY.md,https://github.com/msitarzewski/agency-agents/blob/main/SECURITY.md
+link,A,SECURITY.md,https://github.com/msitarzewski/agency-agents/blob/main/SECURITY.md
+link,A,docs: add SECURITY.md policy (,https://github.com/msitarzewski/agency-agents/commit/6b294e34f58b273bc14bac33768478e6716b60ea
+link,A,#410,https://github.com/msitarzewski/agency-agents/pull/410
+link,A,),https://github.com/msitarzewski/agency-agents/commit/6b294e34f58b273bc14bac33768478e6716b60ea
+link,A,README,https://github.com/msitarzewski/agency-agents#
+link,A,Contributing,https://github.com/msitarzewski/agency-agents#
+link,A,MIT license,https://github.com/msitarzewski/agency-agents#
+link,A,Security,https://github.com/msitarzewski/agency-agents#
+link,A,,https://github.com/msitarzewski/agency-agents#-the-agency-ai-specialists-ready-to-transform-your-workflow
+link,A,,https://github.com/msitarzewski/agency-agents
+link,A,,https://opensource.org/licenses/MIT
+link,A,,https://makeapullrequest.com/
+link,A,,https://github.com/sponsors/msitarzewski
+link,A,,https://github.com/msitarzewski/agency-agents#-what-is-this
+link,A,,https://github.com/msitarzewski/agency-agents#-quick-start
+link,A,,https://github.com/msitarzewski/agency-agents#option-1-use-with-claude-code-recommended
+link,A,,https://github.com/msitarzewski/agency-agents#option-2-use-as-reference
+link,A,,https://github.com/msitarzewski/agency-agents#option-3-use-with-other-tools-github-copilot-antigravity-gemini-cli-opencode-openclaw-cursor-aider-windsurf-kimi-code
+link,A,Multi-Tool Integrations,https://github.com/msitarzewski/agency-agents#-multi-tool-integrations
+link,A,,https://github.com/msitarzewski/agency-agents#-the-agency-roster
+link,A,,https://github.com/msitarzewski/agency-agents#-engineering-division
+link,A,Frontend Developer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-frontend-developer.md
+link,A,Backend Architect,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-backend-architect.md
+link,A,Mobile App Builder,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-mobile-app-builder.md
+link,A,AI Engineer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-ai-engineer.md
+link,A,DevOps Automator,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-devops-automator.md
+link,A,Rapid Prototyper,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-rapid-prototyper.md
+link,A,Senior Developer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-senior-developer.md
+link,A,Filament Optimization Specialist,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-filament-optimization-specialist.md
+link,A,Security Engineer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-security-engineer.md
+link,A,Autonomous Optimization Architect,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-autonomous-optimization-architect.md
+link,A,Embedded Firmware Engineer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-embedded-firmware-engineer.md
+link,A,Incident Response Commander,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-incident-response-commander.md
+link,A,Solidity Smart Contract Engineer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-solidity-smart-contract-engineer.md
+link,A,Codebase Onboarding Engineer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-codebase-onboarding-engineer.md
+link,A,Technical Writer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-technical-writer.md
+link,A,Threat Detection Engineer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-threat-detection-engineer.md
+link,A,WeChat Mini Program Developer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-wechat-mini-program-developer.md
+link,A,Code Reviewer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-code-reviewer.md
+link,A,Database Optimizer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-database-optimizer.md
+link,A,Git Workflow Master,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-git-workflow-master.md
+link,A,Software Architect,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-software-architect.md
+link,A,SRE,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-sre.md
+link,A,AI Data Remediation Engineer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-ai-data-remediation-engineer.md
+link,A,Data Engineer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-data-engineer.md
+link,A,Feishu Integration Developer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-feishu-integration-developer.md
+link,A,CMS Developer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-cms-developer.md
+link,A,Email Intelligence Engineer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-email-intelligence-engineer.md
+link,A,Voice AI Integration Engineer,https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-voice-ai-integration-engineer.md
+link,A,,https://github.com/msitarzewski/agency-agents#-design-division
+link,A,UI Designer,https://github.com/msitarzewski/agency-agents/blob/main/design/design-ui-designer.md
+link,A,UX Researcher,https://github.com/msitarzewski/agency-agents/blob/main/design/design-ux-researcher.md
+link,A,UX Architect,https://github.com/msitarzewski/agency-agents/blob/main/design/design-ux-architect.md
+link,A,Brand Guardian,https://github.com/msitarzewski/agency-agents/blob/main/design/design-brand-guardian.md
+link,A,Visual Storyteller,https://github.com/msitarzewski/agency-agents/blob/main/design/design-visual-storyteller.md
+link,A,Whimsy Injector,https://github.com/msitarzewski/agency-agents/blob/main/design/design-whimsy-injector.md
+link,A,Image Prompt Engineer,https://github.com/msitarzewski/agency-agents/blob/main/design/design-image-prompt-engineer.md
+link,A,Inclusive Visuals Specialist,https://github.com/msitarzewski/agency-agents/blob/main/design/design-inclusive-visuals-specialist.md
+link,A,,https://github.com/msitarzewski/agency-agents#-paid-media-division
+link,A,PPC Campaign Strategist,https://github.com/msitarzewski/agency-agents/blob/main/paid-media/paid-media-ppc-strategist.md
+link,A,Search Query Analyst,https://github.com/msitarzewski/agency-agents/blob/main/paid-media/paid-media-search-query-analyst.md
+link,A,Paid Media Auditor,https://github.com/msitarzewski/agency-agents/blob/main/paid-media/paid-media-auditor.md
+link,A,Tracking & Measurement Specialist,https://github.com/msitarzewski/agency-agents/blob/main/paid-media/paid-media-tracking-specialist.md
+link,A,Ad Creative Strategist,https://github.com/msitarzewski/agency-agents/blob/main/paid-media/paid-media-creative-strategist.md
+link,A,Programmatic & Display Buyer,https://github.com/msitarzewski/agency-agents/blob/main/paid-media/paid-media-programmatic-buyer.md
+link,A,Paid Social Strategist,https://github.com/msitarzewski/agency-agents/blob/main/paid-media/paid-media-paid-social-strategist.md
+link,A,,https://github.com/msitarzewski/agency-agents#-sales-division
+link,A,Outbound Strategist,https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-outbound-strategist.md
+link,A,Discovery Coach,https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-discovery-coach.md
+link,A,Deal Strategist,https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-deal-strategist.md
+link,A,Sales Engineer,https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-engineer.md
+link,A,Proposal Strategist,https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-proposal-strategist.md
+link,A,Pipeline Analyst,https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-pipeline-analyst.md
+link,A,Account Strategist,https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-account-strategist.md
+link,A,Sales Coach,https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-coach.md
+link,A,Sales Outreach,https://github.com/msitarzewski/agency-agents/blob/main/specialized/sales-outreach.md
+link,A,,https://github.com/msitarzewski/agency-agents#-marketing-division
+link,A,Growth Hacker,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-growth-hacker.md
+link,A,Content Creator,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-content-creator.md
+link,A,Twitter Engager,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-twitter-engager.md
+link,A,TikTok Strategist,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-tiktok-strategist.md
+link,A,Instagram Curator,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-instagram-curator.md
+link,A,Reddit Community Builder,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-reddit-community-builder.md
+link,A,App Store Optimizer,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-app-store-optimizer.md
+link,A,Social Media Strategist,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-social-media-strategist.md
+link,A,Xiaohongshu Specialist,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-xiaohongshu-specialist.md
+link,A,WeChat Official Account Manager,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-wechat-official-account.md
+link,A,Zhihu Strategist,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-zhihu-strategist.md
+link,A,Baidu SEO Specialist,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-baidu-seo-specialist.md
+link,A,Bilibili Content Strategist,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-bilibili-content-strategist.md
+link,A,Carousel Growth Engine,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-carousel-growth-engine.md
+link,A,LinkedIn Content Creator,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-linkedin-content-creator.md
+link,A,China E-Commerce Operator,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-china-ecommerce-operator.md
+link,A,Kuaishou Strategist,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-kuaishou-strategist.md
+link,A,SEO Specialist,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-seo-specialist.md
+link,A,Book Co-Author,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-book-co-author.md
+link,A,Cross-Border E-Commerce Specialist,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-cross-border-ecommerce.md
+link,A,Douyin Strategist,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-douyin-strategist.md
+link,A,Livestream Commerce Coach,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-livestream-commerce-coach.md
+link,A,Podcast Strategist,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-podcast-strategist.md
+link,A,Private Domain Operator,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-private-domain-operator.md
+link,A,Short-Video Editing Coach,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-short-video-editing-coach.md
+link,A,Weibo Strategist,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-weibo-strategist.md
+link,A,AI Citation Strategist,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-ai-citation-strategist.md
+link,A,China Market Localization Strategist,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-china-market-localization-strategist.md
+link,A,Video Optimization Specialist,https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-video-optimization-specialist.md
+link,A,,https://github.com/msitarzewski/agency-agents#-product-division
+link,A,Sprint Prioritizer,https://github.com/msitarzewski/agency-agents/blob/main/product/product-sprint-prioritizer.md
+link,A,Trend Researcher,https://github.com/msitarzewski/agency-agents/blob/main/product/product-trend-researcher.md
+link,A,Feedback Synthesizer,https://github.com/msitarzewski/agency-agents/blob/main/product/product-feedback-synthesizer.md
+link,A,Behavioral Nudge Engine,https://github.com/msitarzewski/agency-agents/blob/main/product/product-behavioral-nudge-engine.md
+link,A,Product Manager,https://github.com/msitarzewski/agency-agents/blob/main/product/product-manager.md
+link,A,,https://github.com/msitarzewski/agency-agents#-project-management-division
+link,A,Studio Producer,https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-management-studio-producer.md
+link,A,Project Shepherd,https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-management-project-shepherd.md
+link,A,Studio Operations,https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-management-studio-operations.md
+link,A,Experiment Tracker,https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-management-experiment-tracker.md
+link,A,Senior Project Manager,https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-manager-senior.md
+link,A,Jira Workflow Steward,https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-management-jira-workflow-steward.md
+link,A,,https://github.com/msitarzewski/agency-agents#-testing-division
+link,A,Evidence Collector,https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-evidence-collector.md
+link,A,Reality Checker,https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-reality-checker.md
+link,A,Test Results Analyzer,https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-test-results-analyzer.md
+link,A,Performance Benchmarker,https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-performance-benchmarker.md
+link,A,API Tester,https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-api-tester.md
+link,A,Tool Evaluator,https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-tool-evaluator.md
+link,A,Workflow Optimizer,https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-workflow-optimizer.md
+link,A,Accessibility Auditor,https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-accessibility-auditor.md
+link,A,,https://github.com/msitarzewski/agency-agents#-support-division
+link,A,Support Responder,https://github.com/msitarzewski/agency-agents/blob/main/support/support-support-responder.md
+link,A,Analytics Reporter,https://github.com/msitarzewski/agency-agents/blob/main/support/support-analytics-reporter.md
+link,A,Finance Tracker,https://github.com/msitarzewski/agency-agents/blob/main/support/support-finance-tracker.md
+link,A,Infrastructure Maintainer,https://github.com/msitarzewski/agency-agents/blob/main/support/support-infrastructure-maintainer.md
+link,A,Legal Compliance Checker,https://github.com/msitarzewski/agency-agents/blob/main/support/support-legal-compliance-checker.md
+link,A,Executive Summary Generator,https://github.com/msitarzewski/agency-agents/blob/main/support/support-executive-summary-generator.md
+link,A,,https://github.com/msitarzewski/agency-agents#-spatial-computing-division
+link,A,XR Interface Architect,https://github.com/msitarzewski/agency-agents/blob/main/spatial-computing/xr-interface-architect.md
+link,A,macOS Spatial/Metal Engineer,https://github.com/msitarzewski/agency-agents/blob/main/spatial-computing/macos-spatial-metal-engineer.md
+link,A,XR Immersive Developer,https://github.com/msitarzewski/agency-agents/blob/main/spatial-computing/xr-immersive-developer.md
+link,A,XR Cockpit Interaction Specialist,https://github.com/msitarzewski/agency-agents/blob/main/spatial-computing/xr-cockpit-interaction-specialist.md
+link,A,visionOS Spatial Engineer,https://github.com/msitarzewski/agency-agents/blob/main/spatial-computing/visionos-spatial-engineer.md
+link,A,Terminal Integration Specialist,https://github.com/msitarzewski/agency-agents/blob/main/spatial-computing/terminal-integration-specialist.md
+link,A,,https://github.com/msitarzewski/agency-agents#-specialized-division
+link,A,Agents Orchestrator,https://github.com/msitarzewski/agency-agents/blob/main/specialized/agents-orchestrator.md
+link,A,LSP/Index Engineer,https://github.com/msitarzewski/agency-agents/blob/main/specialized/lsp-index-engineer.md
+link,A,Sales Data Extraction Agent,https://github.com/msitarzewski/agency-agents/blob/main/specialized/sales-data-extraction-agent.md
+link,A,Data Consolidation Agent,https://github.com/msitarzewski/agency-agents/blob/main/specialized/data-consolidation-agent.md
+link,A,Report Distribution Agent,https://github.com/msitarzewski/agency-agents/blob/main/specialized/report-distribution-agent.md
+link,A,Agentic Identity & Trust Architect,https://github.com/msitarzewski/agency-agents/blob/main/specialized/agentic-identity-trust.md
+link,A,Identity Graph Operator,https://github.com/msitarzewski/agency-agents/blob/main/specialized/identity-graph-operator.md
+link,A,Accounts Payable Agent,https://github.com/msitarzewski/agency-agents/blob/main/specialized/accounts-payable-agent.md
+link,A,Blockchain Security Auditor,https://github.com/msitarzewski/agency-agents/blob/main/specialized/blockchain-security-auditor.md
+link,A,Compliance Auditor,https://github.com/msitarzewski/agency-agents/blob/main/specialized/compliance-auditor.md
+link,A,Cultural Intelligence Strategist,https://github.com/msitarzewski/agency-agents/blob/main/specialized/specialized-cultural-intelligence-strategist.md
+link,A,Developer Advocate,https://github.com/msitarzewski/agency-agents/blob/main/specialized/specialized-developer-advocate.md
+link,A,Model QA Specialist,https://github.com/msitarzewski/agency-agents/blob/main/specialized/specialized-model-qa.md
+link,A,ZK Steward,https://github.com/msitarzewski/agency-agents/blob/main/specialized/zk-steward.md
+link,A,MCP Builder,https://github.com/msitarzewski/agency-agents/blob/main/specialized/specialized-mcp-builder.md
+link,A,Document Generator,https://github.com/msitarzewski/agency-agents/blob/main/specialized/specialized-document-generator.md
+link,A,Automation Governance Architect,https://github.com/msitarzewski/agency-agents/blob/main/specialized/automation-governance-architect.md
+link,A,Corporate Training Designer,https://github.com/msitarzewski/agency-agents/blob/main/specialized/corporate-training-designer.md
+link,A,Government Digital Presales Consultant,https://github.com/msitarzewski/agency-agents/blob/main/specialized/government-digital-presales-consultant.md
+link,A,Healthcare Marketing Compliance,https://github.com/msitarzewski/agency-agents/blob/main/specialized/healthcare-marketing-compliance.md
+link,A,Recruitment Specialist,https://github.com/msitarzewski/agency-agents/blob/main/specialized/recruitment-specialist.md
+link,A,Study Abroad Advisor,https://github.com/msitarzewski/agency-agents/blob/main/specialized/study-abroad-advisor.md
+link,A,Supply Chain Strategist,https://github.com/msitarzewski/agency-agents/blob/main/specialized/supply-chain-strategist.md
+link,A,Workflow Architect,https://github.com/msitarzewski/agency-agents/blob/main/specialized/specialized-workflow-architect.md
+link,A,Salesforce Architect,https://github.com/msitarzewski/agency-agents/blob/main/specialized/specialized-salesforce-architect.md
+link,A,French Consulting Market Navigator,https://github.com/msitarzewski/agency-agents/blob/main/specialized/specialized-french-consulting-market.md
+link,A,Korean Business Navigator,https://github.com/msitarzewski/agency-agents/blob/main/specialized/specialized-korean-business-navigator.md
+link,A,Civil Engineer,https://github.com/msitarzewski/agency-agents/blob/main/specialized/specialized-civil-engineer.md
+link,A,Customer Service,https://github.com/msitarzewski/agency-agents/blob/main/specialized/customer-service.md
+link,A,Healthcare Customer Service,https://github.com/msitarzewski/agency-agents/blob/main/specialized/healthcare-customer-service.md
+link,A,Hospitality Guest Services,https://github.com/msitarzewski/agency-agents/blob/main/specialized/hospitality-guest-services.md
+link,A,HR Onboarding,https://github.com/msitarzewski/agency-agents/blob/main/specialized/hr-onboarding.md
+link,A,Language Translator,https://github.com/msitarzewski/agency-agents/blob/main/specialized/language-translator.md
+link,A,Legal Billing & Time Tracking,https://github.com/msitarzewski/agency-agents/blob/main/specialized/legal-billing-time-tracking.md
+link,A,Legal Client Intake,https://github.com/msitarzewski/agency-agents/blob/main/specialized/legal-client-intake.md
+link,A,Legal Document Review,https://github.com/msitarzewski/agency-agents/blob/main/specialized/legal-document-review.md
+link,A,Loan Officer Assistant,https://github.com/msitarzewski/agency-agents/blob/main/specialized/loan-officer-assistant.md
+link,A,Real Estate Buyer & Seller,https://github.com/msitarzewski/agency-agents/blob/main/specialized/real-estate-buyer-seller.md
+link,A,Retail Customer Returns,https://github.com/msitarzewski/agency-agents/blob/main/specialized/retail-customer-returns.md
+link,A,,https://github.com/msitarzewski/agency-agents#-finance-division
+link,A,Bookkeeper & Controller,https://github.com/msitarzewski/agency-agents/blob/main/finance/finance-bookkeeper-controller.md
+link,A,Financial Analyst,https://github.com/msitarzewski/agency-agents/blob/main/finance/finance-financial-analyst.md
+link,A,FP&A Analyst,https://github.com/msitarzewski/agency-agents/blob/main/finance/finance-fpa-analyst.md
+link,A,Investment Researcher,https://github.com/msitarzewski/agency-agents/blob/main/finance/finance-investment-researcher.md
+link,A,Tax Strategist,https://github.com/msitarzewski/agency-agents/blob/main/finance/finance-tax-strategist.md
+link,A,,https://github.com/msitarzewski/agency-agents#-game-development-division
+link,A,,https://github.com/msitarzewski/agency-agents#cross-engine-agents-engine-agnostic
+link,A,Game Designer,https://github.com/msitarzewski/agency-agents/blob/main/game-development/game-designer.md
+link,A,Level Designer,https://github.com/msitarzewski/agency-agents/blob/main/game-development/level-designer.md
+link,A,Technical Artist,https://github.com/msitarzewski/agency-agents/blob/main/game-development/technical-artist.md
+link,A,Game Audio Engineer,https://github.com/msitarzewski/agency-agents/blob/main/game-development/game-audio-engineer.md
+link,A,Narrative Designer,https://github.com/msitarzewski/agency-agents/blob/main/game-development/narrative-designer.md
+link,A,,https://github.com/msitarzewski/agency-agents#unity
+link,A,Unity Architect,https://github.com/msitarzewski/agency-agents/blob/main/game-development/unity/unity-architect.md
+link,A,Unity Shader Graph Artist,https://github.com/msitarzewski/agency-agents/blob/main/game-development/unity/unity-shader-graph-artist.md
+link,A,Unity Multiplayer Engineer,https://github.com/msitarzewski/agency-agents/blob/main/game-development/unity/unity-multiplayer-engineer.md
+link,A,Unity Editor Tool Developer,https://github.com/msitarzewski/agency-agents/blob/main/game-development/unity/unity-editor-tool-developer.md
+link,A,,https://github.com/msitarzewski/agency-agents#unreal-engine
+link,A,Unreal Systems Engineer,https://github.com/msitarzewski/agency-agents/blob/main/game-development/unreal-engine/unreal-systems-engineer.md
+link,A,Unreal Technical Artist,https://github.com/msitarzewski/agency-agents/blob/main/game-development/unreal-engine/unreal-technical-artist.md
+link,A,Unreal Multiplayer Architect,https://github.com/msitarzewski/agency-agents/blob/main/game-development/unreal-engine/unreal-multiplayer-architect.md
+link,A,Unreal World Builder,https://github.com/msitarzewski/agency-agents/blob/main/game-development/unreal-engine/unreal-world-builder.md
+link,A,,https://github.com/msitarzewski/agency-agents#godot
+link,A,Godot Gameplay Scripter,https://github.com/msitarzewski/agency-agents/blob/main/game-development/godot/godot-gameplay-scripter.md
+link,A,Godot Multiplayer Engineer,https://github.com/msitarzewski/agency-agents/blob/main/game-development/godot/godot-multiplayer-engineer.md
+link,A,Godot Shader Developer,https://github.com/msitarzewski/agency-agents/blob/main/game-development/godot/godot-shader-developer.md
+link,A,,https://github.com/msitarzewski/agency-agents#blender
+link,A,Blender Addon Engineer,https://github.com/msitarzewski/agency-agents/blob/main/game-development/blender/blender-addon-engineer.md
+link,A,,https://github.com/msitarzewski/agency-agents#roblox-studio
+link,A,Roblox Systems Scripter,https://github.com/msitarzewski/agency-agents/blob/main/game-development/roblox-studio/roblox-systems-scripter.md
+link,A,Roblox Experience Designer,https://github.com/msitarzewski/agency-agents/blob/main/game-development/roblox-studio/roblox-experience-designer.md
+link,A,Roblox Avatar Creator,https://github.com/msitarzewski/agency-agents/blob/main/game-development/roblox-studio/roblox-avatar-creator.md
+link,A,,https://github.com/msitarzewski/agency-agents#-academic-division
+link,A,Anthropologist,https://github.com/msitarzewski/agency-agents/blob/main/academic/academic-anthropologist.md
+link,A,Geographer,https://github.com/msitarzewski/agency-agents/blob/main/academic/academic-geographer.md
+link,A,Historian,https://github.com/msitarzewski/agency-agents/blob/main/academic/academic-historian.md
+link,A,Narratologist,https://github.com/msitarzewski/agency-agents/blob/main/academic/academic-narratologist.md
+link,A,Psychologist,https://github.com/msitarzewski/agency-agents/blob/main/academic/academic-psychologist.md
+link,A,,https://github.com/msitarzewski/agency-agents#-real-world-use-cases
+link,A,,https://github.com/msitarzewski/agency-agents#scenario-1-building-a-startup-mvp
+link,A,,https://github.com/msitarzewski/agency-agents#scenario-2-marketing-campaign-launch
+link,A,,https://github.com/msitarzewski/agency-agents#scenario-3-enterprise-feature-development
+link,A,,https://github.com/msitarzewski/agency-agents#scenario-4-paid-media-account-takeover
+link,A,,https://github.com/msitarzewski/agency-agents#scenario-5-full-agency-product-discovery
+link,A,Nexus Spatial Discovery Exercise,https://github.com/msitarzewski/agency-agents/blob/main/examples/nexus-spatial-discovery.md
+link,A,More examples,https://github.com/msitarzewski/agency-agents/blob/main/examples
+link,A,,https://github.com/msitarzewski/agency-agents#-contributing
+link,A,,https://github.com/msitarzewski/agency-agents#add-a-new-agent
+link,A,,https://github.com/msitarzewski/agency-agents#improve-existing-agents
+link,A,,https://github.com/msitarzewski/agency-agents#share-your-success-stories
+link,A,Discussions,https://github.com/msitarzewski/agency-agents/discussions
+link,A,,https://github.com/msitarzewski/agency-agents#-agent-design-philosophy
+link,A,,https://github.com/msitarzewski/agency-agents#-what-makes-this-special
+link,A,,https://github.com/msitarzewski/agency-agents#unlike-generic-ai-prompts
+link,A,,https://github.com/msitarzewski/agency-agents#unlike-prompt-libraries
+link,A,,https://github.com/msitarzewski/agency-agents#unlike-ai-tools
+link,A,,https://github.com/msitarzewski/agency-agents#-agent-personality-highlights
+link,A,,https://github.com/msitarzewski/agency-agents#-stats
+link,A,,https://github.com/msitarzewski/agency-agents#-multi-tool-integrations
+link,A,,https://github.com/msitarzewski/agency-agents#supported-tools
+link,A,Claude Code,https://claude.ai/code
+link,A,GitHub Copilot,https://github.com/copilot
+link,A,Antigravity,https://github.com/google-gemini/antigravity
+link,A,Gemini CLI,https://github.com/google-gemini/gemini-cli
+link,A,OpenCode,https://opencode.ai/
+link,A,Cursor,https://cursor.sh/
+link,A,Aider,https://aider.chat/
+link,A,Windsurf,https://codeium.com/windsurf
+link,A,OpenClaw,https://github.com/openclaw/openclaw
+link,A,Qwen Code,https://github.com/QwenLM/qwen-code
+link,A,Kimi Code,https://github.com/MoonshotAI/kimi-cli
+link,A,,https://github.com/msitarzewski/agency-agents#-quick-install
+link,A,,https://github.com/msitarzewski/agency-agents#tool-specific-instructions
+link,A,,https://github.com/msitarzewski/agency-agents/blob/main/integrations/claude-code/README.md
+link,A,,https://github.com/msitarzewski/agency-agents/blob/main/integrations/github-copilot/README.md
+link,A,,https://github.com/msitarzewski/agency-agents/blob/main/integrations/antigravity/README.md
+link,A,,https://github.com/msitarzewski/agency-agents/blob/main/integrations/gemini-cli/README.md
+link,A,,https://github.com/msitarzewski/agency-agents/blob/main/integrations/opencode/README.md
+link,A,,https://github.com/msitarzewski/agency-agents/blob/main/integrations/cursor/README.md
+link,A,,https://github.com/msitarzewski/agency-agents/blob/main/integrations/aider/README.md
+link,A,,https://github.com/msitarzewski/agency-agents/blob/main/integrations/windsurf/README.md
+link,A,,https://github.com/msitarzewski/agency-agents/blob/main/integrations/openclaw/README.md
+link,A,,https://qwenlm.github.io/qwen-code-docs/en/users/features/sub-agents/
+link,A,,https://github.com/msitarzewski/agency-agents/blob/main/integrations/kimi/README.md
+link,A,,https://github.com/msitarzewski/agency-agents#regenerating-after-changes
+link,A,,https://github.com/msitarzewski/agency-agents#%EF%B8%8F-roadmap
+link,A,examples/,https://github.com/msitarzewski/agency-agents/blob/main/examples
+link,A,,https://github.com/msitarzewski/agency-agents#-community-translations--localizations
+link,A,@jnMetaCode,https://github.com/jnMetaCode
+link,A,agency-agents-zh,https://github.com/jnMetaCode/agency-agents-zh
+link,A,@dsclca12,https://github.com/dsclca12
+link,A,agent-teams,https://github.com/dsclca12/agent-teams
+link,A,,https://github.com/msitarzewski/agency-agents#-related-resources
+link,A,awesome-openclaw-agents,https://github.com/mergisi/awesome-openclaw-agents
+link,A,,https://github.com/msitarzewski/agency-agents#-license
+link,A,,https://github.com/msitarzewski/agency-agents#-acknowledgments
+link,A,,https://github.com/msitarzewski/agency-agents#-community
+link,A,Share your success stories,https://github.com/msitarzewski/agency-agents/discussions
+link,A,Report bugs or request features,https://github.com/msitarzewski/agency-agents/issues
+link,A,,https://github.com/msitarzewski/agency-agents#-get-started
+link,A,⭐ Star this repo,https://github.com/msitarzewski/agency-agents
+link,A,🍴 Fork it,https://github.com/msitarzewski/agency-agents/fork
+link,A,🐛 Report an issue,https://github.com/msitarzewski/agency-agents/issues
+link,A,❤️ Sponsor,https://github.com/sponsors/msitarzewski
+link,A,Readme,https://github.com/msitarzewski/agency-agents#readme-ov-file
+link,A,MIT license,https://github.com/msitarzewski/agency-agents#MIT-1-ov-file
+link,A,Contributing,https://github.com/msitarzewski/agency-agents#contributing-ov-file
+link,A,Security policy,https://github.com/msitarzewski/agency-agents#security-ov-file
+link,A,Please reload this page,https://github.com/msitarzewski/agency-agents
+link,A,Activity,https://github.com/msitarzewski/agency-agents/activity
+link,A,100k stars,https://github.com/msitarzewski/agency-agents/stargazers
+link,A,789 watching,https://github.com/msitarzewski/agency-agents/watchers
+link,A,16.7k forks,https://github.com/msitarzewski/agency-agents/forks
+link,A,Report repository,https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmsitarzewski%2Fagency-agents&report=msitarzewski+%28user%29
+link,A,Releases,https://github.com/msitarzewski/agency-agents/releases
+link,A,Packages,https://github.com/users/msitarzewski/packages?repo_name=agency-agents
+link,A,"Contributors
+68",https://github.com/msitarzewski/agency-agents/graphs/contributors
+link,A,,https://github.com/msitarzewski
+link,A,,https://github.com/claude
+link,A,,https://github.com/epowelljr
+link,A,,https://github.com/4shil
+link,A,,https://github.com/CagesThrottleUs
+link,A,,https://github.com/DawnnnHuang
+link,A,,https://github.com/CelsoDeSa
+link,A,,https://github.com/victorkzam
+link,A,,https://github.com/DKFuH
+link,A,,https://github.com/Gujiassh
+link,A,,https://github.com/aryanvr961
+link,A,,https://github.com/benjifriedman
+link,A,,https://github.com/Rovey
+link,A,,https://github.com/dreynow
+link,A,+ 54 contributors,https://github.com/msitarzewski/agency-agents/graphs/contributors
+link,A,"Shell
+96.8%",https://github.com/msitarzewski/agency-agents/search?l=shell
+link,A,"PowerShell
+3.2%",https://github.com/msitarzewski/agency-agents/search?l=powershell
+link,A,,https://github.com/
+link,A,Terms,https://docs.github.com/site-policy/github-terms/github-terms-of-service
+link,A,Privacy,https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+link,A,Security,https://github.com/security
+link,A,Status,https://www.githubstatus.com/
+link,A,Community,https://github.community/
+link,A,Docs,https://docs.github.com/
+link,A,Contact,https://support.github.com/?tags=dotcom-footer
