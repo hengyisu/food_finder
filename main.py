@@ -41,7 +41,11 @@ def call_agent(blueprint, user_input, system_instruction_addon="", json_schema=N
     result = subprocess.run(cmd, capture_output=True, text=True)
 
     if result.returncode != 0:
-        raise RuntimeError(f"Claude CLI 錯誤:\n{result.stderr}")
+        raise RuntimeError(
+            f"Claude CLI 錯誤 (returncode={result.returncode})\n"
+            f"stderr: {result.stderr!r}\n"
+            f"stdout: {result.stdout!r}"
+        )
 
     envelope = json.loads(result.stdout)
     return envelope["result"].strip()
@@ -175,4 +179,4 @@ def run_automation_team(user_requirement):
             print(f"  🚨 {filename} 超過最大修正次數，請人類工程師介入檢查。")
 
 if __name__ == "__main__":
-    run_automation_team("幫我做一個自動化網路爬蟲，使用 Playwright 爬取指定網頁的標題與連結，並存成 CSV 檔。")
+    run_automation_team("幫我做 maridb crud 的 api")
