@@ -111,9 +111,12 @@ def run_automation_team(user_requirement):
     developer_bp = load_agent_blueprint("agent_blueprints/senior-developer.md")
     reviewer_bp = load_agent_blueprint("agent_blueprints/code-reviewer.md")
 
-    print("📐 [Step 1] 架構師正在規劃專案結構...")
+    print("🧠 [Step 0] Brainstorming 開始，請回答以下問題...\n")
+    spec = brainstorm_with_user(user_requirement)
+
+    print("\n📐 [Step 1] 架構師正在規劃專案結構...")
     architect_addon = "請根據你的規則分析需求，輸出符合 JSON Schema 的專案檔案清單。project_name 請使用英文 snake_case。"
-    architect_res = call_agent(architect_bp, user_requirement, architect_addon, json_schema=architect_schema)
+    architect_res = call_agent(architect_bp, spec, architect_addon, json_schema=architect_schema)
     spec = json.loads(extract_json(architect_res))
 
     project_dir = f"./{spec['project_name']}"
