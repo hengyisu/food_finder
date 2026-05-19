@@ -10,6 +10,12 @@ def extract_json(text):
         text = text.rsplit("```", 1)[0]
     return text.strip()
 
+def _extract_spec(response: str):
+    """Return the spec string if response contains [SPEC_READY], else None."""
+    if "[SPEC_READY]" not in response:
+        return None
+    return response.split("[SPEC_READY]", 1)[1].strip()
+
 def load_agent_blueprint(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         return f.read()
